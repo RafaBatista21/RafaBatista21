@@ -1,7 +1,7 @@
 ### Ola, meu nome é Rafael :)
 
 Graduado em Sistemas de Informação e apaixonado pela area de desenvolvimento de software. No momento tenho exercido como profissional de TI na area publica e tambem ja atuei como desenvolvedor. Na area de TI por ai vai .....
-- 🎓**Bacharelado** em Sistemas de Informação e Tecnico em Informática Industrial
+- 🎓**Bacharelado** em Sistemas de Informação e **Técnico** em Informática Industrial
 - 👨‍💻 Apaixonado pela area **DEV**
 - 📚 Sempre buscando conhecimentos dentro da area de desenvolvimento
 - 🚴🏻‍♂️🏋🏻‍♂️ hobbies atividades fisicas e cinema 🍿
