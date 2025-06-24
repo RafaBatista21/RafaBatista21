@@ -20,7 +20,7 @@ Graduado em Sistemas de Informação e apaixonado pela area de desenvolvimento d
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img width="100" height="100" src="https://spring.io/images/projects/spring-boot-59fcef0d.svg" />
+  <img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
 </div>
 
 ##
