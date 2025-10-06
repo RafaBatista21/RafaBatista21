@@ -7,20 +7,22 @@ Graduado em Sistemas de Informação e apaixonado pela area de desenvolvimento d
 - 🚴🏻‍♂️🏋🏻‍♂️ hobbies atividades fisicas e cinema 🍿
 - 💻 Atualmente focado em:
 <div style "display: inline">
-  <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width='100' height='100'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
 </div> <br>
 
 - 📖📚🤓 Conhecimentos tambem em:
 <div style "display: inline">
+    <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+  <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img width='100' height='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img width="100" height="100" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
+  
 </div>
 
 ##
